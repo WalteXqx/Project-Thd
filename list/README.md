@@ -6,4 +6,4 @@ This program is a list program where you can add/remove objects from a list
 Feel free to use it :D
 
 #Owner
-me => [WalteXqx](https://github.com/WalteXqx) /// Aka => Taha:q
+me => [WalteXqx](https://github.com/WalteXqx) /// Aka => Taha
