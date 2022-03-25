@@ -8,4 +8,4 @@ begging, fliping coin and earing by waiting (like a crypto miner)
 Feel free to use it :D
 
 #Owner
-me => [WalteXqx](https://github.com/WalteXqx) --- Aka => Taha
+me => [WalteXqx](https://github.com/WalteXqx) /// Aka => Taha
