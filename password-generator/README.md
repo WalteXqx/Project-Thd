@@ -1,12 +1,12 @@
-#Password Generator
-##Description
+# Password Generator
+## Description
 This is a code that generates a random password in the lengh you want.
 
-##Needs
+## Needs
 random module
 
-##License
+## License
 Feel Free to use it :D
 
-#Owner
+## Owner
 me => [WalteXqx](https://github.com/WalteXqx) /// Aka => Taha
